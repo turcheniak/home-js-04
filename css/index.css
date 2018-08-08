@@ -1,0 +1,30 @@
+body {
+  color: coral;
+  text-align: center;
+}
+
+h1 {
+  font-weight: 300;
+}
+
+button {
+  border: 0;
+  background:  grey;
+  color: white;
+  cursor: pointer;
+  font: inherit;
+  margin: 0.25em;
+  width: 2em;
+  height: 2em;
+  }
+  
+ .clear {
+  border: 0;
+  background:  grey;
+  color: white;
+  cursor: pointer;
+  font: inherit;
+  margin: 0.25em;
+  width: 10.5em;
+  height: 2em;
+ }

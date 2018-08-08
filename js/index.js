@@ -12,3 +12,7 @@ document.querySelector('.calc .eq')
         display.value = eval(display.value);        
     })
 
+document.querySelector('.calc .clear')
+    .addEventListener('click', function(){
+        display.value = ('');
+    })
